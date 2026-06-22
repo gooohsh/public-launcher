@@ -1,0 +1,12 @@
+{
+    "files": [
+        {
+            "path": "game/resourcepacks/meadmcrp.zip",
+            "sha256": "2f54bafe661d86107da18dab0d483208c8500908cd26b9d81f3b3e84b797d341"
+        },
+        {
+            "path": "MeadMc.jar",
+            "sha256": "405b5814341fe4f5aed78ccde50517049d7cc9f69b8ac40ed6a901bee2dbf669"
+        }
+    ]
+}
