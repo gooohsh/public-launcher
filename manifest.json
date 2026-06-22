@@ -7,6 +7,10 @@
         {
             "path": "MeadMc.jar",
             "sha256": "405b5814341fe4f5aed78ccde50517049d7cc9f69b8ac40ed6a901bee2dbf669"
+        },
+        {
+            "path": "game/options.txt",
+            "sha256": "beb3076396287e98bb4f092c71ae242310c9d46bd4dfe9f59f3a8e386bb23005"
         }
     ]
 }
