@@ -5,10 +5,6 @@
             "sha256": "2f54bafe661d86107da18dab0d483208c8500908cd26b9d81f3b3e84b797d341"
         },
         {
-            "path": "game/resourcepacks/s",
-            "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-        },
-        {
             "path": "MeadMc.jar",
             "sha256": "be4d37c89beec40deeaf3499233b8bf690853a08a108ee7de48db99fb1090008"
         },
